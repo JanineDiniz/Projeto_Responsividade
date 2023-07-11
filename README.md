@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto é uma página de um estudo sobre responsividade
+O projeto é uma página de estudo sobre responsividade
 
 ## 🔖 Layout
 
